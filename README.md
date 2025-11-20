@@ -1,1 +1,1 @@
-MRI-based structure habitat analysis (MSHA) is a computer framework for characterizing the tumor core and leading edge
+MRI-based structural habitat analysis (MSHA) is a computational framework designed to characterize the tumor core and its leading edge. This code is associated with the article titled "Enhanced Recurrence Risk Stratification for Stage Ⅱ–Ⅲ Breast Cancer Using MRI-based Structural Habitat Imaging."
